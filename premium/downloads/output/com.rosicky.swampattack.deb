@@ -1,0 +1,8 @@
+Architecture: iphoneos-arm
+Author: damar1st <info@damarist.de>
+Maintainer: damar1st <info@damarist.de>
+Name: Swamp Attack
+Package: com.rosicky.SwampAttack
+Section: Tweaks
+Version: 1.2
+Website: http://damarist.de

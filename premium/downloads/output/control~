@@ -1,0 +1,9 @@
+Package: iGameGuardian
+Version: 3.1.0
+Section: utils
+Priority: optional
+Depends: 
+Architecture: iphoneos-arm
+Installed-Size: 300
+Maintainer: Aqua Wu <aqua.wu@gmail.com>
+Description: iGameGuardian is a game cheating engine for iOS 5.x/6.x.

@@ -1,0 +1,20 @@
+#!/bin/sh
+echo "+------------------------------------------+"
+echo "|Swamp Attack [1.2] Installer|"
+echo "+------------------------------------------+"
+echo ""
+for filename in /var/mobile/Applications/*
+do
+	if [ -d $filename"/Swamp Attack.app" ]; then
+		path=$filename	
+		echo "App Pfad: "$path	
+
+		mv $path"/Documents/Redneck.dat" $path"/Documents/Redneck.dat.bak" 
+		cp "/tmp/Redneck.dat" $path"/Documents/Redneck.dat"
+
+
+
+	fi	
+done;
+echo ""
+echo "BY damar1st!!!"

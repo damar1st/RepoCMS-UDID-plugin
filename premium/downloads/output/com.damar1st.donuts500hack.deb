@@ -1,0 +1,10 @@
+Architecture: iphoneos-arm
+Author: damar1st <info@damarist.de>
+Depends: ldone, wget, unrar
+Description: The Simpsons Tapped Out real donuts hack
+Maintainer: damar1st <info@damarist.de>
+Name: Tapped Out 4.9.5 Ultimate Donut Hack
+Package: com.damar1st.donuts500hack
+Section: hacks
+Version: 4.9.5
+Website: http://forum.damar1st.de

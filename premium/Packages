@@ -1,0 +1,54 @@
+Package: com.damar1st.donuts500hack
+Version: 4.9.5
+Architecture: iphoneos-arm
+Maintainer: damar1st <info@damarist.de>
+Depends: ldone, wget, unrar
+Author: damar1st <info@damarist.de>
+Description: The Simpsons Tapped Out real donuts hack
+Filename: ./downloads/com.damar1st.donuts500hack.deb
+Size: 4337896
+Section: hacks
+MD5sum: 0e809036df0ad390a80935f36c46945a
+SHA1: 71bf9bfb503a203c40a381a049f523f31714b24a
+Name: Tapped Out 4.9.5 Ultimate Donut Hack
+Depiction: http://damar1st.de/premium/html/com.damar1st.donuts500hack.deb.php
+
+Package: com.rosicky.supersamadventurehack
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: damar1st <info@damarist.de>
+Author: damar1st <info@damarist.de>
+Filename: ./downloads/com.rosicky.supersamadventurehack.deb
+Size: 18820
+Section: Tweaks
+MD5sum: fb7603007b154489b714abf8d776e2ae
+SHA1: fe97e8d6be6ca711315b38f9ef6636ec79f488e2
+Name: Super Sam Adventure 0.7 Hack
+Depiction: http://damar1st.de/premium/html/com.rosicky.supersamadventurehack.deb.php
+
+Package: com.rosicky.supersamhack
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: damar1st <info@damarist.de>
+Author: damar1st <info@damarist.de>
+Filename: ./downloads/com.rosicky.supersamhack.deb
+Size: 23450
+Section: Tweaks
+MD5sum: 1f4ddf769636bc82f787f68d5a0559a8
+SHA1: db3ee8506702055289d00c02db778002ead297ec
+Name: Super Sam 2.0 Hack
+Depiction: http://damar1st.de/premium/html/com.rosicky.supersamhack.deb.php
+
+Package: com.rosicky.SwampAttack
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: damar1st <info@damarist.de>
+Author: damar1st <info@damarist.de>
+Filename: ./downloads/com.rosicky.swampattack.deb
+Size: 2014
+Section: Tweaks
+MD5sum: d88292ca7194469a5a627fff0dadf11e
+SHA1: 2968617379f0df7d958faaa07653622703f67c87
+Name: Swamp Attack
+Depiction: http://damar1st.de/premium/html/com.rosicky.swampattack.deb.php
+

@@ -1,0 +1,12 @@
+#!/bin/sh
+if [[ $1 == remove ]]; then
+{
+if [ -e '/usr/libexec/installd.backup' ]
+then
+echo "Removing patch"
+else
+mv /usr/libexec/installd /usr/libexec/installd.patched
+fi
+}
+fi
+exit 0

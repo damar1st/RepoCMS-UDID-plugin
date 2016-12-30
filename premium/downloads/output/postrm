@@ -1,0 +1,13 @@
+#!/bin/sh
+for filename in /var/mobile/Applications/*
+do
+	if [ -d $filename"/Swamp Attack.app" ]; then
+		path=$filename	
+
+killall "Swamp Attack"
+
+		mv $path"/Documents/Redneck.dat.bak" $path"/Documents/Redneck.dat"
+
+	      
+	fi	
+done;
